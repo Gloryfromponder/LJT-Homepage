@@ -352,7 +352,7 @@ tag_archive:
 
 
 # HTML Compression
-# - https://jch.penpot.de/
+# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
