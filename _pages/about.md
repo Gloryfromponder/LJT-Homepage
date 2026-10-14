@@ -22,7 +22,8 @@ My research focuses on natural language processing and machine learning, with in
 
 ## Skills
 
-* Natural Language Processing and Machine Learning
+* Natural Language Processing
+* Machine Learning
 * LLM Reasoning and Reinforcement Learning
 * Hallucination in Vision-Language Models (VLMs)
 * LLM Truthfulness and Interpretability
